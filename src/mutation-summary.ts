@@ -1748,3 +1748,4 @@ class MutationSummary {
   }
 }
 
+module.exports = MutationSummary
