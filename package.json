@@ -1,6 +1,6 @@
 {
   "name": "mutation-summary-h",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Makes observing the DOM fast and easy",
   "main": "lib/mutation-summary.js",
   "directories": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/csillag/mutation-summary"
+    "url": "https://github.com/hypothesis/mutation-summary"
   },
   "author": {
     "name": "Kristof Csillag",
