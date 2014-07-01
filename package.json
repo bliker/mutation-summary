@@ -1,6 +1,6 @@
 {
-  "name": "mutation-summary-h",
-  "version": "0.0.2",
+  "name": "mutation-summary",
+  "version": "0.0.0",
   "description": "Makes observing the DOM fast and easy",
   "main": "lib/mutation-summary.js",
   "directories": {
@@ -10,14 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "tsc --target ES5 --out lib/mutation-summary.js src/mutation-summary.ts || true"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/hypothesis/mutation-summary"
-  },
-  "author": {
-    "name": "Kristof Csillag",
-    "email": "csillag@hypothes.is"
   },
   "license": "Apache 2.0",
   "devDependencies": {
